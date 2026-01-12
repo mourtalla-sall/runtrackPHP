@@ -24,11 +24,11 @@ echo"
 </tr>
 <tr>
 <td>String</td>
-<td>Cachaîne De Caractères</td>
+<td>Cachaîne De Caractères :</td>
 <td>$mychaîneDeCaractères</td>
 </tr>
 <tr>
-<td>double</td>
+<td>double :</td>
 <td>nombre décimal</td>
 <td>$mynombreVirgule</td>
 </tr>
