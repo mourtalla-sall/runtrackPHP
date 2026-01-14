@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 20%;
+    width: 50%;
+     background: #020024;
+    background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+     }
+#btn {
+    background-color: #00D4FF;
+    color: #090979;
+    font-size: 20px;
+    padding: 10px ;
+    border-radius: 10px;
+    border: none;
+    width: 50%;
+    margin-top: 12px;
+}
+label{
+    font-size: 4rem;
+    color: white;
+}
+select{
+    font-size: 20px;
+    padding: 10px ;
+    border-radius: 10px;
+    border: none;
+    width: 80%;
+    background-color: #090979;
+    color: #fff;
+
+}
